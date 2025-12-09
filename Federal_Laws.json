@@ -1,0 +1,1048 @@
+{
+	"data": [
+		{
+		"title": "FEDERAL LAWS",
+		"paragraphs": [
+			{
+            "context": "Civil Rights Act of 1964\nProhibits discrimination based on race, color, religion, sex, or national origin in various areas, including employment, education, and public accommodations.",
+            "qas": [
+                {
+                "id": "1a",
+                "question": "What does the Civil Rights Act of 1964 prohibit?",
+                "answers": [
+                    {
+                    "text": "discrimination based on race, color, religion, sex, or national origin",
+                    "answer_start": 35
+                    }
+                ]
+                },
+                {
+                "id": "1b",
+                "question": "In which areas does the Civil Rights Act of 1964 address discrimination?",
+                "answers": [
+                    {
+                    "text": "employment, education, and public accommodations.",
+                    "answer_start": 134
+                    }
+                ]
+                },
+                {
+                "id": "1c",
+                "question": "What is the Civil Rights Act?",
+                "answers": [
+                    {
+                    "text": "Prohibits discrimination based on race, color, religion, sex, or national origin",
+                    "answer_start": 25
+                    }
+                ]
+                },
+                {
+                "id": "1c",
+                "question": "What does the Civil Rights Act do?",
+                "answers": [
+                    {
+                    "text": "Prohibits discrimination based on race, color, religion, sex, or national origin",
+                    "answer_start": 25
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Americans with Disabilities Act (ADA)\nEnsures equal rights and opportunities for individuals with disabilities in employment, public accommodations, transportation, and telecommunications.",
+            "qas": [
+                {
+                "id": "2a",
+                "question": "What rights does the Americans with Disabilities Act ensure?",
+                "answers": [
+                    {
+                    "text": "equal rights and opportunities for individuals with disabilities",
+                    "answer_start": 46
+                    }
+                ]
+                },
+                {
+                "id": "2b",
+                "question": "In which areas does the Americans with Disabilities Act protect individuals with disabilities?",
+                "answers": [
+                    {
+                    "text": "employment, public accommodations, transportation, and telecommunications",
+                    "answer_start": 114
+                    }
+                ]
+                },
+                {
+                "id": "2c",
+                "question": "What is the Americans with Disabilities Act?",
+                "answers": [
+                    {
+                    "text": "Ensures equal rights and opportunities for individuals with disabilities",
+                    "answer_start": 38
+                    }
+                ]
+                },
+                {
+                "id": "2d",
+                "question": "What does the Americans with Disabilities Act do?",
+                "answers": [
+                    {
+                    "text": "Ensures equal rights and opportunities for individuals with disabilities",
+                    "answer_start": 38
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Clean Air Act\nRegulates air emissions to protect public health and the environment from pollution, addressing issues such as smog, acid rain, and toxic air pollutants.",
+            "qas": [
+                {
+                "id": "3a",
+                "question": "What is the Clean Air Act?",
+                "answers": [
+                    {
+                    "text": "Regulates air emissions to protect public health and the environment from pollution",
+                    "answer_start": 14
+                    }
+                ]
+                },
+                {
+                "id": "3b",
+                "question": "What does the Clean Air Act do?",
+                "answers": [
+                    {
+                    "text": "Regulates air emissions to protect public health and the environment from pollution",
+                    "answer_start": 14
+                    }
+                ]
+                },
+                {
+                "id": "3c",
+                "question": "What are some of the issues addressed by the Clean Air Act?",
+                "answers": [
+                    {
+                    "text": "smog, acid rain, and toxic air pollutants",
+                    "answer_start": 125
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Clean Water Act\nEstablishes the basic structure for regulating pollutants in U.S. waters, setting water quality standards and regulating discharge permits.",
+            "qas": [
+                {
+                "id": "4a",
+                "question": "What does the Clean Water Act establish?",
+                "answers": [
+                    {
+                    "text": "the basic structure for regulating pollutants in U.S. waters",
+                    "answer_start": 28
+                    }
+                ]
+                },
+                {
+                "id": "4b",
+                "question": "What does the Clean Water Act do?",
+                "answers": [
+                    {
+                    "text": "Establishes the basic structure for regulating pollutants in U.S. waters, setting water quality standards and regulating discharge permits.",
+                    "answer_start": 16
+                    }
+                ]
+                },
+                {
+                "id": "4c",
+                "question": "What is the Clean Water Act?",
+                "answers": [
+                    {
+                    "text": "Establishes the basic structure for regulating pollutants in U.S. waters",
+                    "answer_start": 16
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Social Security Act\nCreates a system of social insurance to provide financial support and benefits to retired, disabled, and unemployed individuals, as well as their dependents.",
+            "qas": [
+                {
+                "id": "5a",
+                "question": "What does the Social Security Act do?",
+                "answers": [
+                    {
+                    "text": "Creates a system of social insurance to provide financial support and benefits to retired, disabled, and unemployed individuals, as well as their dependents.",
+                    "answer_start": 20
+                    }
+                ]
+                },
+                {
+                "id": "5b",
+                "question": "Who is eligible for the benefits provided by the Social Security Act?",
+                "answers": [
+                    {
+                    "text": "retired, disabled, and unemployed individuals, as well as their dependents.",
+                    "answer_start": 102
+                    }
+                ]
+                },
+                {
+                "id": "5c",
+                "question": "What is the Social Security Act?",
+                "answers": [
+                    {
+                    "text": "Creates a system of social insurance to provide financial support and benefits to retired, disabled, and unemployed individuals, as well as their dependents.",
+                    "answer_start": 20
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Affordable Care Act (ACA)\nAims to expand access to affordable healthcare by requiring individuals to have insurance, providing subsidies, and prohibiting insurance companies from denying coverage based on pre-existing conditions.",
+            "qas": [
+                {
+                "id": "6a",
+                "question": "What is the Affordable Care Act?",
+                "answers": [
+                    {
+                    "text": "Aims to expand access to affordable healthcare",
+                    "answer_start": 26
+                    }
+                ]
+                },
+                {
+                "id": "6b",
+                "question": "What does the Affordable Care Act do?",
+                "answers": [
+                    {
+                    "text": "requiring individuals to have insurance, providing subsidies, and prohibiting insurance companies from denying coverage based on pre-existing conditions",
+                    "answer_start": 76
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Family and Medical Leave Act (FMLA)\nAllows eligible employees to take unpaid leave for certain family and medical reasons while ensuring job protection and continuation of health insurance.",
+            "qas": [
+                {
+                "id": "7a",
+                "question": "What is the Family and Medical Leave Act?",
+                "answers": [
+                    {
+                    "text": "Allows eligible employees to take unpaid leave for certain family and medical reasons",
+                    "answer_start": 36
+                    }
+                ]
+                },
+                {
+                "id": "7b",
+                "question": "What does the Family and Medical Leave Act do?",
+                "answers": [
+                    {
+                    "text": "Allows eligible employees to take unpaid leave for certain family and medical reasons",
+                    "answer_start": 36
+                    }
+                ]
+                },
+                {
+                "id": "7c",
+                "question": "What protections are provided by the Family and Medical Leave Act (FMLA)?",
+                "answers": [
+                    {
+                    "text": "job protection and continuation of health insurance",
+                    "answer_start": 137
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Occupational Safety and Health Act (OSHA)\nEstablishes workplace safety and health standards to ensure a safe working environment for employees, enforceable through inspections and penalties.",
+            "qas": [
+                {
+                "id": "8a",
+                "question": "What is the Occupational Safety and Health Act?",
+                "answers": [
+                    {
+                    "text": "Establishes workplace safety and health standards",
+                    "answer_start": 42
+                    }
+                ]
+                },
+                {
+                "id": "8b",
+                "question": "What does the Occupational Safety and Health Act do?",
+                "answers": [
+                    {
+                    "text": "Establishes workplace safety and health standards",
+                    "answer_start": 42
+                    }
+                ]
+                },
+                {
+                "id": "8c",
+                "question": "How are the standards set by the Occupational Safety and Health Act enforced?",
+                "answers": [
+                    {
+                    "text": "through inspections and penalties",
+                    "answer_start": 156
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Voting Rights Act of 1965\nProtects the right to vote for racial and language minority groups by prohibiting discriminatory voting practices, such as literacy tests and poll taxes.",
+            "qas": [
+                {
+                "id": "9a",
+                "question": "Whose right to vote does the Voting Rights Act of 1965 protect?",
+                "answers": [
+                    {
+                    "text": "racial and language minority groups",
+                    "answer_start": 57
+                    }
+                ]
+                },
+                {
+                "id": "9b",
+                "question": "What voting practices are prohibited by the Voting Rights Act of 1965?",
+                "answers": [
+                    {
+                    "text": "discriminatory voting practices, such as literacy tests and poll taxes.",
+                    "answer_start": 108
+                    }
+                ]
+                },
+                {
+                "id": "9c",
+                "question": "What is the Voting Rights Act of 1965?",
+                "answers": [
+                    {
+                    "text": "Protects the right to vote for racial and language minority groups",
+                    "answer_start": 26
+                    }
+                ]
+                },
+                {
+                "id": "9c",
+                "question": "What does the Voting Rights Act of 1965 do?",
+                "answers": [
+                    {
+                    "text": "Protects the right to vote for racial and language minority groups",
+                    "answer_start": 26
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Fair Labor Standards Act (FLSA)\nSets minimum wage, overtime pay, and child labor standards to protect workers and ensure fair compensation.",
+            "qas": [
+                {
+                "id": "10a",
+                "question": "What standards are set by the Fair Labor Standards Act?",
+                "answers": [
+                    {
+                    "text": "minimum wage, overtime pay, and child labor standards",
+                    "answer_start": 37
+                    }
+                ]
+                },
+                {
+                "id": "10b",
+                "question": "Who does the Fair Labor Standards Act aim to protect?",
+                "answers": [
+                    {
+                    "text": "workers",
+                    "answer_start": 102
+                    }
+                ]
+                },
+                {
+                "id": "10c",
+                "question": "What is the Fair Labor Standards Act?",
+                "answers": [
+                    {
+                    "text": "Sets minimum wage, overtime pay, and child labor standards to protect workers",
+                    "answer_start": 32
+                    }
+                ]
+                },
+                {
+                "id": "10d",
+                "question": "What does the Fair Labor Standards Act de?",
+                "answers": [
+                    {
+                    "text": "Sets minimum wage, overtime pay, and child labor standards to protect workers",
+                    "answer_start": 32
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "National Environmental Policy Act (NEPA)\nRequires federal agencies to assess the environmental impact of their proposed actions and involve the public in decision-making processes.",
+            "qas": [
+                {
+                "id": "11a",
+                "question": "What is required by the National Environmental Policy Act (NEPA)?",
+                "answers": [
+                    {
+                    "text": "Requires federal agencies to assess the environmental impact of their proposed actions",
+                    "answer_start": 41
+                    }
+                ]
+                },
+                {
+                "id": "11b",
+                "question": "Who should be involved in the decision-making processes under the National Environmental Policy Act (NEPA)?",
+                "answers": [
+                    {
+                    "text": "the public",
+                    "answer_start": 140
+                    }
+                ]
+                },
+                {
+                "id": "11c",
+                "question": "What is the National Environmental Policy Act (NEPA)?",
+                "answers": [
+                    {
+                    "text": "Requires federal agencies to assess the environmental impact of their proposed actions and involve the public in decision-making processes",
+                    "answer_start": 41
+                    }
+                ]
+                },
+                {
+                "id": "11d",
+                "question": "What does the National Environmental Policy Act (NEPA) do?",
+                "answers": [
+                    {
+                    "text": "Requires federal agencies to assess the environmental impact of their proposed actions and involve the public in decision-making processes",
+                    "answer_start": 41
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Equal Pay Act\nProhibits wage discrimination based on gender, requiring equal pay for equal work performed by men and women in the same establishment.",
+            "qas": [
+                {
+                "id": "12a",
+                "question": "What is the Equal Pay Act",
+                "answers": [
+                    {
+                    "text": "Prohibits wage discrimination based on gender",
+                    "answer_start": 14
+                    }
+                ]
+                },
+                {
+                "id": "12b",
+                "question": "What does the Equal Pay Act do?",
+                "answers": [
+                    {
+                    "text": "Prohibits wage discrimination based on gender",
+                    "answer_start": 14
+                    }
+                ]
+                },
+                {
+                "id": "12c",
+                "question": "When should men and women receive equal pay according to the Equal Pay Act?",
+                "answers": [
+                    {
+                    "text": "equal pay for equal work performed by men and women in the same establishment",
+                    "answer_start": 71
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Immigration and Nationality Act\nEstablishes immigration policies and regulations, including rules for naturalization, visas, and deportation procedures.",
+            "qas": [
+                {
+                "id": "13b",
+                "question": "What is the Immigration and Nationality Act?",
+                "answers": [
+                    {
+                    "text": "Establishes immigration policies and regulations",
+                    "answer_start": 32
+                    }
+                ]
+                },
+                {
+                "id": "13b",
+                "question": "What does the Immigration and Nationality Act do?",
+                "answers": [
+                    {
+                    "text": "Establishes immigration policies and regulations",
+                    "answer_start": 32
+                    }
+                ]
+                },
+                {
+                "id": "13c",
+                "question": "What areas does the Immigration and Nationality Act cover?",
+                "answers": [
+                    {
+                    "text": "naturalization, visas, and deportation procedures",
+                    "answer_start": 102
+                    }
+                ]
+                }
+            ]
+            },
+            {
+            "context": "Age Discrimination in Employment Act (ADEA)\nProtects individuals aged 40 and older from employment discrimination based on age, ensuring equal opportunities and benefits.",
+            "qas": [
+                {
+                "id": "14a",
+                "question": "Who does the Age Discrimination in Employment Act (ADEA) protect?",
+                "answers": [
+                    {
+                    "text": "individuals aged 40 and older",
+                    "answer_start": 53
+                    }
+                ]
+                },
+                {
+                "id": "14b",
+                "question": "What does the Age Discrimination in Employment Act (ADEA) protect individuals from?",
+                "answers": [
+                    {
+                    "text": "employment discrimination based on age",
+                    "answer_start": 88
+                    },
+                    {  
+                    "text": "employment discrimination based on age, ensuring equal opportunities and benefits",
+                    "answer_start": 88
+                    }
+                ]
+                },
+                {
+                "id": "14c",
+                "question": "What is the Age Discrimination in Employment Act (ADEA)?",
+                "answers": [
+                    {
+                    "text": "Protects individuals aged 40 and older from employment discrimination based on age",
+                    "answer_start": 44
+                    }
+                ]
+                },
+                {
+                "id": "14d",
+                "question": "What does the Age Discrimination in Employment Act (ADEA) do?",
+                "answers": [
+                    {
+                    "text": "Protects individuals aged 40 and older from employment discrimination based on age",
+                    "answer_start": 44
+                    }
+                ]
+                }
+            ]
+            },
+            {
+                "context": "Federal Food, Drug, and Cosmetic Act\nRegulates the safety and labeling of food, drugs, and cosmetics, ensuring they are safe for consumption and properly labeled.",
+                "qas": [
+                    {
+                        "id": "15a",
+                        "question": "What is the Federal Food, Drug, and Cosmetic Act?",
+                        "answers": [{"text": "Regulates the safety and labeling of food, drugs, and cosmetics", "answer_start": 37}]
+                    },
+                    {
+                        "id": "15b",
+                        "question": "What does the Federal Food, Drug, and Cosmetic Act do?",
+                        "answers": [{"text": "Regulates the safety and labeling of food, drugs, and cosmetics", "answer_start": 37}]
+                    }
+                ]
+            },
+            {
+                "context": "No Child Left Behind Act\nAimed to improve student achievement and accountability in U.S. schools, setting standards for educational performance and federal funding.",
+                "qas": [
+                    {
+                        "id": "16a",
+                        "question": "What is the objective of the No Child Left Behind Act?",
+                        "answers": [{"text": "to improve student achievement and accountability in U.S. schools", "answer_start": 31}]
+                    },
+                    {
+                        "id": "16b",
+                        "question": "What does the No Child Left Behind Act set standards for?",
+                        "answers": [{"text": "educational performance and federal funding.", "answer_start": 120}]
+                    },
+                    {
+                        "id": "16c",
+                        "question": "What is the No Child Left Behind Act?",
+                        "answers": [{"text": "Aimed to improve student achievement and accountability in U.S. schools, setting standards for educational performance and federal funding.", "answer_start": 25}]
+                    },
+                    {
+                        "id": "16d",
+                        "question": "What does the No Child Left Behind Act de?",
+                        "answers": [{"text": "Aimed to improve student achievement and accountability in U.S. schools, setting standards for educational performance and federal funding.", "answer_start": 25}]
+                    }
+                ]
+            },
+            {
+                "context": "USA PATRIOT Act\nExpands the powers of law enforcement agencies to investigate and prevent terrorism, allowing for increased surveillance and information sharing.",
+                "qas": [
+                    {
+                        "id": "17a",
+                        "question": "What is the purpose of the USA PATRIOT Act?",
+                        "answers": [{"text": "Expands the powers of law enforcement agencies to investigate and prevent terrorism", "answer_start": 16}]
+                    },
+                    {
+                        "id": "17b",
+                        "question": "What does the USA PATRIOT Act allow for?",
+                        "answers": [{"text": "increased surveillance and information sharing.", "answer_start": 114}]
+                    },
+                    {
+                        "id": "17c",
+                        "question": "What is the USA PATRIOT Act?",
+                        "answers": [{"text": "Expands the powers of law enforcement agencies to investigate and prevent terrorism", "answer_start": 16}]
+                    },
+                    {
+                        "id": "17d",
+                        "question": "What does the USA PATRIOT Act do?",
+                        "answers": [{"text": "Expands the powers of law enforcement agencies to investigate and prevent terrorism", "answer_start": 16}]
+                    }
+                ]
+            },
+            {
+                "context": "Endangered Species Act\nProtects endangered and threatened species and their habitats by requiring conservation efforts and prohibiting harm or exploitation of the endangered species and their habitat",
+                "qas": [
+                    {
+                        "id": "18a",
+                        "question": "What does the Endangered Species Act protect?",
+                        "answers": [{"text": "endangered and threatened species and their habitats", "answer_start": 32}]
+                    },
+                    {
+                        "id": "18b",
+                        "question": "What does the Endangered Species Act prohibit?",
+                        "answers": [{"text": "harm or exploitation of the endangered species and their habitat", "answer_start": 135}]
+                    },
+                    {
+                        "id": "18c",
+                        "question": "What is the Endangered Species Act?",
+                        "answers": [{"text": "Protects endangered and threatened species and their habitats by requiring conservation efforts and prohibiting harm or exploitation", "answer_start": 23}]
+                    },
+                    {
+                        "id": "18d",
+                        "question": "What does the Endangered Species Act do?",
+                        "answers": [{"text": "Protects endangered and threatened species and their habitats by requiring conservation efforts and prohibiting harm or exploitation", "answer_start": 23}]
+                    }
+                ]
+            },
+            {
+                "context": "Individuals with Disabilities Education Act (IDEA)\nEnsures that students with disabilities receive a free and appropriate public education for disabled students, including special education services and supports.",
+                "qas": [
+                    {
+                        "id": "19a",
+                        "question": "Who does the Individuals with Disabilities Education Act (IDEA) benefit?",
+                        "answers": [{"text": "students with disabilities", "answer_start": 64}]
+                    },
+                    {
+                        "id": "19b",
+                        "question": "What does the Individuals with Disabilities Education Act (IDEA) ensure?",
+                        "answers": [{"text": "free and appropriate public education for disabled students", "answer_start": 101}]
+                    },
+                    {
+                        "id": "19c",
+                        "question": "What is the Individuals with Disabilities Education Act (IDEA)?",
+                        "answers": [{"text": "Ensures that students with disabilities receive a free and appropriate public education", "answer_start": 51}]
+                    },
+                    {
+                        "id": "19d",
+                        "question": "What does the Individuals with Disabilities Education Act (IDEA) ensure?",
+                        "answers": [{"text": "Ensures that students with disabilities receive a free and appropriate public education", "answer_start": 51}]
+                    }
+                ]
+            },
+            {
+                "context": "National Defense Authorization Act (NDAA)\nAuthorizes defense spending and sets policies for the Department of Defense, including military operations and personnel.",
+                "qas": [
+                    {
+                        "id": "20a",
+                        "question": "What does the National Defense Authorization Act (NDAA) authorize?",
+                        "answers": [{"text": "defense spending", "answer_start": 53}]
+                    },
+                    {
+                        "id": "20b",
+                        "question": "What does the National Defense Authorization Act (NDAA) set policies for?",
+                        "answers": [{"text": "the Department of Defense, including military operations and personnel.", "answer_start": 92}]
+                    },
+                    {
+                        "id": "20c",
+                        "question": "What is the National Defense Authorization Act (NDAA)?",
+                        "answers": [{"text": "Authorizes defense spending and sets policies for the Department of Defense", "answer_start": 42}]
+                    },
+                    {
+                        "id": "20d",
+                        "question": "What does the National Defense Authorization Act (NDAA) do?",
+                        "answers": [{"text": "Authorizes defense spending and sets policies for the Department of Defense", "answer_start": 42}]
+                    }
+                ]
+            },
+            {
+                "context": "Genetic Information Nondiscrimination Act (GINA)\nProhibits genetic information discrimination in health insurance and employment, safeguarding against genetic-based discrimination.",
+                "qas": [
+                    {
+                        "id": "21a",
+                        "question": "What does the Genetic Information Nondiscrimination Act (GINA) prohibit?",
+                        "answers": [{"text": "genetic information discrimination in health insurance and employment", "answer_start": 59}]
+                    },
+                    {
+                        "id": "21b",
+                        "question": "What does the Genetic Information Nondiscrimination Act (GINA) safeguard against?",
+                        "answers": [{"text": "genetic-based discrimination", "answer_start": 151}]
+                    },
+                    {
+                        "id": "21c",
+                        "question": "What is the Genetic Information Nondiscrimination Act (GINA)?",
+                        "answers": [{"text": "Prohibits genetic information discrimination in health insurance and employment", "answer_start": 49}]
+                    },
+                    {
+                        "id": "21d",
+                        "question": "What does the Genetic Information Nondiscrimination Act (GINA) do?",
+                        "answers": [{"text": "Prohibits genetic information discrimination in health insurance and employment", "answer_start": 49}]
+                    }
+                ]
+            },
+            {
+                "context": "Freedom of Information Act (FOIA)\nGrants public access to federal agency records and information, promoting transparency and accountability in government.",
+                "qas": [
+                    {
+                        "id": "22a",
+                        "question": "What does the Freedom of Information Act (FOIA) grant?",
+                        "answers": [{"text": "public access to federal agency records and information", "answer_start": 41}]
+                    },
+                    {
+                        "id": "22b",
+                        "question": "What does the Freedom of Information Act (FOIA) promote?",
+                        "answers": [{"text": "transparency and accountability in government.", "answer_start": 108}]
+                    },
+                    {
+                        "id": "22c",
+                        "question": "What is the Freedom of Information Act (FOIA)?",
+                        "answers": [{"text": "Grants public access to federal agency records and information", "answer_start": 34}]
+                    },
+                    {
+                        "id": "22d",
+                        "question": "What does the Freedom of Information Act (FOIA) do?",
+                        "answers": [{"text": "Grants public access to federal agency records and information", "answer_start": 34}]
+                    }
+                ]
+            },
+            {
+                "context": "Fair Housing Act\nProhibits housing discrimination based on race, color, religion, sex, national origin, disability, or familial status, ensuring equal access to housing opportunities.",
+                "qas": [
+                    {
+                        "id": "23a",
+                        "question": "What does the Fair Housing Act prohibit?",
+                        "answers": [{"text": "housing discrimination based on race, color, religion, sex, national origin, disability, or familial status", "answer_start": 27}]
+                    },
+                    {
+                        "id": "23b",
+                        "question": "What does the Fair Housing Act ensure?",
+                        "answers": [{"text": "equal access to housing opportunities.", "answer_start": 145}]
+                    },
+                    {
+                        "id": "23c",
+                        "question": "What is the Fair Housing Act?",
+                        "answers": [{"text": "Prohibits housing discrimination based on race, color, religion, sex, national origin, disability, or familial status, ensuring equal access to housing opportunities.", "answer_start": 17}]
+                    },
+                    {
+                        "id": "23d",
+                        "question": "What does the Fair Housing Act do?",
+                        "answers": [{"text": "Prohibits housing discrimination based on race, color, religion, sex, national origin, disability, or familial status, ensuring equal access to housing opportunities.", "answer_start": 17}]
+                    }
+                ]
+            },
+            {
+                "context": "Clean Power Plan\nSets limits on carbon dioxide emissions from power plants, aiming to reduce greenhouse gas emissions and combat climate change.",
+                "qas": [
+                    {
+                        "id": "24a",
+                        "question": "What does the Clean Power Plan limit?",
+                        "answers": [{"text": "carbon dioxide emissions from power plants", "answer_start": 32}]
+                    },
+                    {
+                        "id": "24b",
+                        "question": "What is the goal of the Clean Power Plan?",
+                        "answers": [{"text": "to reduce greenhouse gas emissions and combat climate change.", "answer_start": 83}]
+                    },
+                    {
+                        "id": "24c",
+                        "question": "What is the Clean Power Plan?",
+                        "answers": [{"text": "Sets limits on carbon dioxide emissions from power plants", "answer_start": 17}]
+                    },
+                    {
+                        "id": "24d",
+                        "question": "What does the Clean Power Plan do?",
+                        "answers": [{"text": "Sets limits on carbon dioxide emissions from power plants", "answer_start": 17}]
+                    }
+                ]
+            },
+            {
+                "context": "USA Freedom Act\nModifies and reauthorizes certain provisions of the USA PATRIOT Act, enhancing privacy protections and limiting bulk data collection.",
+                "qas": [
+                    {
+                        "id": "25a",
+                        "question": "What does the USA Freedom Act modify and reauthorize?",
+                        "answers": [{"text": "certain provisions of the USA PATRIOT Act", "answer_start": 42}]
+                    },
+                    {
+                        "id": "25b",
+                        "question": "What are the changes made by the USA Freedom Act?",
+                        "answers": [{"text": "enhancing privacy protections and limiting bulk data collection.", "answer_start": 85}]
+                    },
+                    {
+                        "id": "25c",
+                        "question": "What is the USA Freedom Act?",
+                        "answers": [{"text": "Modifies and reauthorizes certain provisions of the USA PATRIOT Act, enhancing privacy protections", "answer_start": 16}]
+                    },
+                    {
+                        "id": "25d",
+                        "question": "What does the USA Freedom Act do?",
+                        "answers": [{"text": "Modifies and reauthorizes certain provisions of the USA PATRIOT Act, enhancing privacy protections", "answer_start": 16}]
+                    }
+                ]
+            },
+            {
+                "context": "Federal Reserve Act\nCreated the Federal Reserve System, the central banking system of the United States, to promote stability in the monetary and financial system.",
+                "qas": [
+                    {
+                        "id": "26a",
+                        "question": "What did the Federal Reserve Act create?",
+                        "answers": [{"text": "the Federal Reserve System", "answer_start": 28}]
+                    },
+                    {
+                        "id": "26b",
+                        "question": "What is the purpose of the Federal Reserve Act?",
+                        "answers": [{"text": "to promote stability in the monetary and financial system.", "answer_start": 105}]
+                    },
+                    {
+                        "id": "26c",
+                        "question": "What is the Federal Reserve Act?",
+                        "answers": [{"text": "Created the Federal Reserve System, the central banking system of the United States, to promote stability in the monetary and financial system.", "answer_start": 20}]
+                    },
+                    {
+                        "id": "26d",
+                        "question": "What does the Federal Reserve Act do?",
+                        "answers": [{"text": "Created the Federal Reserve System, the central banking system of the United States, to promote stability in the monetary and financial system.", "answer_start": 20}]
+                    }
+                ]
+            },
+            {
+                "context": "Immigration Reform and Control Act (IRCA)\nAddresses immigration policy, including employer sanctions for hiring undocumented workers and establishing legal pathways to citizenship.",
+                "qas": [
+                    {
+                        "id": "27a",
+                        "question": "What does the Immigration Reform and Control Act (IRCA) address?",
+                        "answers": [{"text": "immigration policy", "answer_start": 52}]
+                    },
+                    {
+                        "id": "27b",
+                        "question": "What does the Immigration Reform and Control Act (IRCA) establish?",
+                        "answers": [{"text": "legal pathways to citizenship.", "answer_start": 150}]
+                    },
+                    {
+                        "id": "27c",
+                        "question": "What is the Immigration Reform and Control Act (IRCA)?",
+                        "answers": [{"text": "Addresses immigration policy, including employer sanctions for hiring undocumented workers and establishing legal pathways to citizenship.", "answer_start": 42}]
+                    },
+                    {
+                        "id": "27d",
+                        "question": "What does the Immigration Reform and Control Act (IRCA) do?",
+                        "answers": [{"text": "Addresses immigration policy, including employer sanctions for hiring undocumented workers and establishing legal pathways to citizenship.", "answer_start": 42}]
+                    }
+                ]
+            },
+            {
+                "context": "Uniform Commercial Code (UCC)\nProvides a standardized set of laws governing commercial transactions, such as sales of goods, leases, and negotiable instruments.",
+                "qas": [
+                    {
+                        "id": "28a",
+                        "question": "What does the Uniform Commercial Code (UCC) provide?",
+                        "answers": [{"text": "a standardized set of laws governing commercial transactions", "answer_start": 39}]
+                    },
+                    {
+                        "id": "28b",
+                        "question": "What types of transactions does the Uniform Commercial Code (UCC) govern?",
+                        "answers": [{"text": "sales of goods, leases, and negotiable instruments.", "answer_start": 109}]
+                    },
+                    {
+                        "id": "28c",
+                        "question": "What are commercial transactions?",
+                        "answers": [{"text": "goods, leases, and negotiable instruments.", "answer_start": 118}]
+                    },
+                    {
+                        "id": "28d",
+                        "question": "What is the Uniform Commercial Code (UCC)?",
+                        "answers": [{"text": "Provides a standardized set of laws governing commercial transactions", "answer_start": 30}]
+                    },
+                    {
+                        "id": "28e",
+                        "question": "What does the Uniform Commercial Code (UCC) do?",
+                        "answers": [{"text": "Provides a standardized set of laws governing commercial transactions", "answer_start": 30}]
+                    }
+                ]
+            },
+            {
+                "context": "Privacy Act\nRegulates the collection, use, and disclosure of personal information by federal agencies, protecting individual privacy rights.",
+                "qas": [
+                    {
+                        "id": "29a",
+                        "question": "What does the Privacy Act regulate?",
+                        "answers": [{"text": "the collection, use, and disclosure of personal information by federal agencies", "answer_start": 22}]
+                    },
+                    {
+                        "id": "29b",
+                        "question": "What rights does the Privacy Act protect?",
+                        "answers": [{"text": "individual privacy rights.", "answer_start": 114}]
+                    },
+                    {
+                        "id": "29c",
+                        "question": "What is the Privacy Act",
+                        "answers": [{"text": "Regulates the collection, use, and disclosure of personal information by federal agencies", "answer_start": 12}]
+                    },
+                    {
+                        "id": "29d",
+                        "question": "What does the Privacy Act do?",
+                        "answers": [{"text": "Regulates the collection, use, and disclosure of personal information by federal agencies", "answer_start": 12}]
+                    }
+                ]
+            },
+            {
+                "context": "Dodd-Frank Wall Street Reform and Consumer Protection Act\nImplements financial reforms to prevent a recurrence of the 2008 financial crisis, including regulations for banks, credit rating agencies, and consumer protection.",
+                "qas": [
+                    {
+                        "id": "30a",
+                        "question": "What is the purpose of the Dodd-Frank Wall Street Reform and Consumer Protection Act?",
+                        "answers": [{"text": "Implements financial reforms to prevent a recurrence of the 2008 financial crisis", "answer_start": 58}]
+                    },
+                    {
+                        "id": "30b",
+                        "question": "What does the Dodd-Frank Wall Street Reform and Consumer Protection Act regulate?",
+                        "answers": [{"text": "banks, credit rating agencies, and consumer protection.", "answer_start": 167}]
+                    },
+                    {
+                        "id": "30c",
+                        "question": "What is the Dodd-Frank Wall Street Reform and Consumer Protection Act?",
+                        "answers": [{"text": "Implements financial reforms to prevent a recurrence of the 2008 financial crisis, including regulations for banks, credit rating agencies, and consumer protection.", "answer_start": 58}]
+                    },
+                    {
+                        "id": "30d",
+                        "question": "What does the Dodd-Frank Wall Street Reform and Consumer Protection Act do?",
+                        "answers": [{"text": "Implements financial reforms to prevent a recurrence of the 2008 financial crisis, including regulations for banks, credit rating agencies, and consumer protection.", "answer_start": 58}]
+                    }
+                ]
+            },
+            {
+                "context": "Fair Credit Reporting Act (FCRA)\nRegulates the collection, distribution, and use of consumer credit information, promoting accuracy and privacy.",
+                "qas": [
+                    {
+                        "id": "31a",
+                        "question": "What does the Fair Credit Reporting Act (FCRA) regulate?",
+                        "answers": [{"text": "collection, distribution, and use of consumer credit information", "answer_start": 47}]
+                    },
+                    {
+                        "id": "31b",
+                        "question": "What does the Fair Credit Reporting Act (FCRA) promote?",
+                        "answers": [{"text": "accuracy and privacy.", "answer_start": 123}]
+                    },
+                    {
+                        "id": "31c",
+                        "question": "What is the Fair Credit Reporting Act (FCRA)?",
+                        "answers": [{"text": "Regulates the collection, distribution, and use of consumer credit information", "answer_start": 33}]
+                    },
+                    {
+                        "id": "31d",
+                        "question": "What does the Fair Credit Reporting Act (FCRA) do?",
+                        "answers": [{"text": "Regulates the collection, distribution, and use of consumer credit information", "answer_start": 33}]
+                    }
+                ]
+            },
+            {
+                "context": "Americans with Disabilities Amendments Act (ADAAA)\nExpands the definition of 'disability' under the ADA, providing broader protections for individuals with disabilities.",
+                "qas": [
+                    {
+                        "id": "32a",
+                        "question": "What does the Americans with Disabilities Amendments Act (ADAAA) expand?",
+                        "answers": [{"text": "the definition of 'disability' under the ADA", "answer_start": 59}]
+                    },
+                    {
+                        "id": "32b",
+                        "question": "Who does the Americans with Disabilities Amendments Act (ADAAA) provide protections for?",
+                        "answers": [{"text": "individuals with disabilities.", "answer_start": 139}]
+                    },
+                    {
+                        "id": "32c",
+                        "question": "What is the Americans with Disabilities Amendments Act (ADAAA)?",
+                        "answers": [{"text": "Expands the definition of 'disability' under the ADA, providing broader protections for individuals with disabilities.", "answer_start": 51}]
+                    },
+                    {
+                        "id": "32d",
+                        "question": "What does the Americans with Disabilities Amendments Act (ADAAA) do?",
+                        "answers": [{"text": "Expands the definition of 'disability' under the ADA, providing broader protections for individuals with disabilities.", "answer_start": 51}]
+                    }
+                ]
+            },
+            {
+                "context": "Communications Decency Act (CDA)\nRegulates the transmission of indecent and obscene materials over the internet, promoting online safety and protection of children.",
+                "qas": [
+                    {
+                        "id": "33a",
+                        "question": "What does the Communications Decency Act (CDA) regulate?",
+                        "answers": [{"text": "the transmission of indecent and obscene materials over the internet", "answer_start": 43}]
+                    },
+                    {
+                        "id": "33b",
+                        "question": "What does the Communications Decency Act (CDA) promote?",
+                        "answers": [{"text": "online safety and protection of children.", "answer_start": 123}]
+                    },
+                    {
+                        "id": "33c",
+                        "question": "What is the Communications Decency Act (CDA)?",
+                        "answers": [{"text": "Regulates the transmission of indecent and obscene materials over the internet, promoting online safety and protection of children.", "answer_start": 33}]
+                    },
+                    {
+                        "id": "33d",
+                        "question": "What does the Communications Decency Act (CDA) do?",
+                        "answers": [{"text": "Regulates the transmission of indecent and obscene materials over the internet, promoting online safety and protection of children.", "answer_start": 33}]
+                    }
+                ]
+            },
+            {
+                "context": "National Labor Relations Act (NLRA)\nProtects the rights of employees to engage in collective bargaining and form labor unions, ensuring fair labor practices.",
+                "qas": [
+                    {
+                        "id": "34a",
+                        "question": "What does the National Labor Relations Act (NLRA) protect?",
+                        "answers": [{"text": "the rights of employees to engage in collective bargaining and form labor unions", "answer_start": 45}]
+                    },
+                    {
+                        "id": "34b",
+                        "question": "What does the National Labor Relations Act (NLRA) ensure?",
+                        "answers": [{"text": "fair labor practices.", "answer_start": 136}]
+                    },
+                    {
+                        "id": "34c",
+                        "question": "What is the National Labor Relations Act (NLRA)?",
+                        "answers": [{"text": "Protects the rights of employees to engage in collective bargaining and form labor unions", "answer_start": 36}]
+                    },
+                    {
+                        "id": "34d",
+                        "question": "What does the National Labor Relations Act (NLRA) do?",
+                        "answers": [{"text": "Protects the rights of employees to engage in collective bargaining and form labor unions", "answer_start": 36}]
+                    }
+                ]
+            }
+        ]
+        }
+  ]
+}
